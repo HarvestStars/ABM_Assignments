@@ -1,0 +1,9 @@
+IPython
+mesa==1.2.1
+ipynb
+axelrod
+statsmodels
+SALib
+pandas
+numpy
+matplotlib
