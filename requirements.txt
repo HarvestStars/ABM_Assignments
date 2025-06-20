@@ -1,5 +1,5 @@
 IPython
-mesa==1.2.1
+mesa==0.8.8
 ipynb
 axelrod
 statsmodels
